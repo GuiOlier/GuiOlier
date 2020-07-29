@@ -5,4 +5,4 @@ Atualmente estou aprendendo React e buscando outras tecnologias para me fortalec
 
 Quer falar comigo? Chaaaaama!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermeolier)](https://www.linkedin.com/in/guilhermeolier)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-olier)](https://www.linkedin.com/in/guilherme-olier)
