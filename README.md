@@ -1,6 +1,6 @@
 ### Eai!
 
-Eu sou Guilherme Olier, 22 anos. Eu atuei no setor de TI Hospitalar com a parte de regras de negócio e hoje sou entusiasta de programação JavaScript!
+Meu nome é Guilherme Olier, 22 anos. Já atuei como Dev na área hospitalar e financeira, hoje sou entusiasta de programação JavaScript!
 Atualmente estou aprendendo React e buscando outras tecnologias para me fortalecer!
 
 Quer falar comigo? Chaaaaama!
